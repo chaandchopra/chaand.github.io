@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
