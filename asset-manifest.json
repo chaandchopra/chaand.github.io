@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/chaand.github.io/static/css/main.8b2ee548.css",
-    "main.js": "/chaand.github.io/static/js/main.e7ed398b.js",
+    "main.css": "/chaand.github.io/static/css/main.492826e5.css",
+    "main.js": "/chaand.github.io/static/js/main.b9f23425.js",
     "static/js/453.bd564054.chunk.js": "/chaand.github.io/static/js/453.bd564054.chunk.js",
+    "static/media/profile.jpg": "/chaand.github.io/static/media/profile.895afdba6361d8369fec.jpg",
+    "static/media/sohne.woff": "/chaand.github.io/static/media/sohne.2b49028de50fff5c0296.woff",
     "index.html": "/chaand.github.io/index.html",
-    "main.8b2ee548.css.map": "/chaand.github.io/static/css/main.8b2ee548.css.map",
-    "main.e7ed398b.js.map": "/chaand.github.io/static/js/main.e7ed398b.js.map",
+    "main.492826e5.css.map": "/chaand.github.io/static/css/main.492826e5.css.map",
+    "main.b9f23425.js.map": "/chaand.github.io/static/js/main.b9f23425.js.map",
     "453.bd564054.chunk.js.map": "/chaand.github.io/static/js/453.bd564054.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b2ee548.css",
-    "static/js/main.e7ed398b.js"
+    "static/css/main.492826e5.css",
+    "static/js/main.b9f23425.js"
   ]
 }
