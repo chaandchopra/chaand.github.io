@@ -13,6 +13,9 @@ module.exports = {
         inter: ['Inter', 'Arial', 'sans-serif'],
         soehne: ['Soehne', 'Arial', 'sans-serif'],
         arimo: ['Arimo', 'Arial', 'sans-serif'],
+        geist: ['Geist', 'Arial', 'sans-serif'],
+        roboto: ['Roboto', 'Arial', 'sans-serif'],
+        robotoMono: ['Roboto Mono', 'Arial', 'sans-serif'],
       },
 
     },
